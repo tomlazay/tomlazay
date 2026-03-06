@@ -23,8 +23,6 @@ Some investments I've led: **POSH** · **Flex** · **Knowify** · **Lendica** ·
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlazay)
 [![Companyon](https://img.shields.io/badge/Companyon_Ventures-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](https://companyon.vc)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tomlazay)
-[![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat&logo=angellist&logoColor=white)](https://wellfound.com/p/tlazay-gmail-com)
 
 ---
 
